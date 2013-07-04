@@ -1,1 +1,11 @@
-Play2 test application
+This application is based on Play2 framework and demonstrates session management.  
+
+USAGE:
+
+1. cd playTestApp
+2. play run 
+3. on browser: http://localhost:9000/playTestApp
+
+NOTE:
+play must be installed on your system and play command must be executable via command prompt/bash shell.
+
